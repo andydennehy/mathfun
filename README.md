@@ -4,3 +4,5 @@ These are basically mathematical applications with R. Not to be taken too seriou
 Fibonacci.R provides a Fibonacci sequence with length specified by the user.
 
 FiboFibonacci.R provides a sequence of the i=1,1,2,3,5,8,13,21,34... elements of the Fibonacci sequence. Naturally, it becomes unmanageable very, very quickly.
+
+Primes.R has two methods of finding a n-long vector of prime numbers.
